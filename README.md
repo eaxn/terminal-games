@@ -1,0 +1,8 @@
+- termsnake
+- term2048
+- termchess
+- termludo
+- termcookie
+- termudoku
+- termcraft
+- termcsgo
